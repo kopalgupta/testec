@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.testec.spring.boot.elasticcache.redis.SpringBootElastiCacheRedisApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.236 s - in com.testec.spring.boot.elasticcache.redis.SpringBootElastiCacheRedisApplicationTests
